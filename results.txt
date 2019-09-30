@@ -1,0 +1,5 @@
+2 class max accuracy with fully connected layer network: 91.2%
+2 class max accuracy with pytorch CNN                  : 98.23%
+
+5 class max accuracy with fully connected layer network: 55.4%
+5 class max accuracy with pytorch and CNN              : 81.23%

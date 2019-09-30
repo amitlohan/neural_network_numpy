@@ -1,0 +1,16 @@
+1. Put the 5 pickled files of train data batches and 1 files of test data batch of cifar10 dataset in the folder
+   cifar-10-batches-py which should be present in the same folder as the code
+
+2. Run the python file generate_hogs.py to generate the hog features for cifar10 data images
+
+3. For training on 2 classes of cifar10 dataset run the file ann_2_class.py using the command
+   python3 ann_2_class.py
+
+4. For training on 5 classes of cifar10 dataset run the file ann_5_class.py using the command
+   python3 ann_5_class.py
+
+5. For training on 2 classes of cifar10 dataset using CNN and Pytorch run the file nn_torch_2_class.py using the command
+   python3 nn_torch_2_class.py
+
+6. For training on 5 classes of cifar10 dataset using CNN and Pytorch run the file nn_torch_5_class.py using the command
+   python3 nn_torch_5_class.py

@@ -1,0 +1,5 @@
+numpy
+
+sys                  #For printing info on screen
+skimage.feature.hog  #For generating hog features
+matplotlib           #For generating plots
